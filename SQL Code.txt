@@ -1,0 +1,42 @@
+﻿CREATE DATABASE planAhead;
+
+
+CREATE TABLE statistics
+ (
+        efficiency int not null,
+        sleep int not null, 
+attendance int not null,
+study int not null
+);
+
+
+CREATE TABLE event
+ (
+        eventID serial PRIMARY KEY,
+        eventName varchar(20) not null,
+        eventTime time not null,
+        eventDate date not null,
+        eventType varchar(20) not null,
+        eventModule varchar(20) not null,
+        eventLocation varchar(20) not null,
+        eventPriority boolean not null,
+        eventFrequency boolean not null,
+        eventColour varchar(20) not null,
+        eventLength int not null
+);
+
+
+CREATE TABLE reminder
+ (
+        reminderID serial PRIMARY KEY,
+        eventID int not null references event(eventID),
+        reminderTime time not null,
+        reminderDate date not null,
+);
+
+
+CREATE TABLE module
+ (
+        moduleID serial PRIMARY KEY,
+        moduleName varchar(20) not null,
+);
