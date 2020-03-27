@@ -9,19 +9,19 @@ Username Key
 
 
 Feature Implementation Order
-1. Efficency Calculation
-2. Add Event
+1. Efficency Calculation - DONE
+2. Add Event - DONE
 3. Edit Event
 4. Delete Event
-5. Prioritise Event
-6. Database
-7. Database Link
+5. Prioritise Event - DONE
+6. Database - DONE
+7. Database Link - DONE
 8. Mark Attendance
-9. Study Hours
-10. Sleep Hours
-11. Statistcs Overview
+9. Study Hours - DONE
+10. Sleep Hours - DONE
+11. Statistcs Overview - DONE
 12. Filter Events
-13. Add Module
+13. Add Module - DONE
 14. Edit Module
 15. Delete Module
 16. Add Reminder
