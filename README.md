@@ -7,6 +7,18 @@ Username Key
 - Hamisi-m: Hamisi Mganda, 885480
 - UP890197: Dean Awere, 890197
 
+Installation Instructions
+- Download "PlanAhead5C.zip"
+- Extract the contents
+- Open Android Studio
+- Open "PlanAhead%C"
+    - Install an emulator (Recommended Pixel XL)
+    - Run the program.
+- OR
+    - If you have an Android Phone, set up the developer options.
+    - Plug your phone into your PC.
+    - Run the app through your phone.
+
 
 Feature Implementation Order
 1. Efficency Calculation - DONE
