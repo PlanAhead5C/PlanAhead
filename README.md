@@ -19,6 +19,9 @@ Installation Instructions
     - Plug your phone into your PC.
     - Run the app through your phone.
 
+Disclaimer
+- As our project was done through android studio, the app is uploaded as .zip files. We tried in the beginning to upload the code in seperate files but the files quickly became too big to upload individually. This makes the commit history somewhat convoluted as only one person could uplaod the file at a time. We know this does not excuse the way we've handled the uploading of files but we thought it was worth mentioning.
+
 
 Feature Implementation Order
 1. Efficency Calculation - DONE
