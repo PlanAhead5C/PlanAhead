@@ -1,0 +1,28 @@
+<resources>
+    <!-- Main Menu -->
+    <string name="app_name">PlanAhead5C</string>
+    <string name="calculate">Calculate</string>
+    <string name="settings">Settings</string>
+    <string name="plus">+</string>
+    <string name="enterAttendance">Enter Attendance</string>
+    <string name="enterHours">Enter Hours of Study</string>
+    <string name="enterSleep">Enter Hours of Sleep</string>
+    <string name="attendance">Attendance</string>
+    <string name="hours">Hours of Study</string>
+    <string name="sleep">Hours of Sleep</string>
+
+    <!-- Create Event -->
+    <string name="createEvent">Create Event</string>
+    <string name="eventDetails">Event Details</string>
+    <string name="priority">Priority\?</string>
+    <string name="addTitle">Add Title</string>
+    <string name="eventTime">Event Time</string>
+    <string name="eventType">Event Type</string>
+    <string name="eventModule">Event Module</string>
+    <string name="eventFrequency">Event Frequency</string>
+    <string name="eventColour">Event Colour</string>
+    <string name="eventLength">Event Length</string>
+    <string name="eventLocation">Event Location</string>
+
+    <string name="save">Save</string>
+</resources>

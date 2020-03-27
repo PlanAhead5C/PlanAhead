@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC300</color>
+    <color name="colorPrimaryDark">#9EA0AF</color>
+    <color name="colorAccent">#FFC300</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="progressColour">#4CAF50</color>
+</resources>
