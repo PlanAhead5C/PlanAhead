@@ -15,4 +15,9 @@ Testing Methods
     - Unit Tests: Test the logic of the code.
     - Instrumental Tests: Test the UI
 
-Testing the logic of the code and also the UI is automated , the application will show that there is errors and will make the app crash so therefore the errors must be fixed. On the other hand some tests are done munually by the user who will see where the errors are and will fix them.
+Testing the logic of the code and also the UI is automated, the application will show that there is errors and will make the app crash so therefore the errors must be fixed. On the other hand some tests are done munually by the user who will see where the errors are and will fix them.
+
+Tests
+- The first automated test tests the efficiency calculations using valid, invalid, and boundary data. All three tests are successful.
+- The second automated test tests that the app is located in the correct place.
+- The rest of the tests we carried out manually.
