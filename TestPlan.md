@@ -15,4 +15,4 @@ Testing Methods
     - Unit Tests: Test the logic of the code.
     - Instrumental Tests: Test the UI
 
-Testing the logic of the code and also the UI is done automicatically through the Android studio application, the android studio application will show that there is errors and will make the app crash so therefore the errors must be fixed. On the other hand some tests are done munually by the user who will see where the errors are and will fix them.
+Testing the logic of the code and also the UI is automated , the application will show that there is errors and will make the app crash so therefore the errors must be fixed. On the other hand some tests are done munually by the user who will see where the errors are and will fix them.
